@@ -188,7 +188,7 @@ h2 + .profile-picture {
 }
 
 .profile-picture img {
-	max-width: 100%;
+	max-width: 50%;
 	height: inherit;
 	margin: 0 auto;
 	display: block;
